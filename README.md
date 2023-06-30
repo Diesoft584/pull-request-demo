@@ -19,6 +19,7 @@ Para poder participar en el demo lo que tienes que hacer es subir un **pull requ
 6. Asegúrate que el repositorio y rama destino sea la de marcosrivas/pull-request-demo branch:master y la de origen sea tu repositorio con tu rama nueva creada.
 7. Añade comentarios y darle en **Create Pull Request**
 
-©Vida MRR 2019
+©Vida MRR 2019.
 
 OD
+
